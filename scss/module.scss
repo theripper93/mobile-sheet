@@ -1,1 +1,28 @@
-@import 'globals';
+.mobile-sheet-body{
+    & #notifications{
+        display: none !important;
+    }
+}
+
+.mobile-sheet-hidden{
+    display: none !important;
+}
+
+.mobile-sheet-app{
+    top: 0 !important;
+    left: 0 !important;
+}
+
+.mobile-sheet-interface{
+    height: 100vh !important;
+    z-index: 999999 !important;
+    pointer-events: none !important;
+}
+
+.mobile-sheet-ui-right{
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    max-height: 100vh !important;
+    height: 100vh !important;
+}
