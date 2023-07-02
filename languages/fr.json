@@ -1,0 +1,6 @@
+{
+    "mobile-sheet": {
+        "mobileMode": "Mode mobile",
+        "mobileModeHint": "Lorsque cette option est activée, l'utilisateur ne pourra accéder qu'à sa feuille de personnage et à la barre latérale. \nLe canevas sera désactivé."
+    }
+}

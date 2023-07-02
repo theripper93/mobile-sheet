@@ -9,5 +9,6 @@ export function initConfig() {
         <p class="hint">${game.i18n.localize(`${MODULE_ID}.mobileModeHint`)}</p>
         </div>`
         html[0].querySelector(`input[name="pronouns"]`).closest(".form-group").insertAdjacentHTML("afterend", mobileModeHtml);
+        app.setPosition({ height: "auto" });
     });
 }

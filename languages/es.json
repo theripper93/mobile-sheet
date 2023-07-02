@@ -1,0 +1,6 @@
+{
+    "mobile-sheet": {
+        "mobileMode": "Modo móvil",
+        "mobileModeHint": "Cuando esta opción está habilitada, el usuario solo podrá acceder a su hoja de personaje y la barra lateral. \nEl lienzo se desactivará."
+    }
+}

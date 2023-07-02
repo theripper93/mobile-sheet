@@ -1,0 +1,6 @@
+{
+    "mobile-sheet": {
+        "mobileMode": "Mobiler Modus",
+        "mobileModeHint": "Wenn diese Option aktiviert ist, kann der Benutzer nur auf sein Charakterblatt und die Seitenleiste zugreifen. \nDie Leinwand wird deaktiviert."
+    }
+}

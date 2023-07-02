@@ -1,1 +1,6 @@
-
+{
+    "mobile-sheet": {
+        "mobileMode": "Modalità mobile",
+        "mobileModeHint": "Quando questa opzione è abilitata, l'utente potrà accedere solo alla scheda del personaggio e alla barra laterale. \nLa tela sarà disabilitata."
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "mobile-sheet": {
+        "mobileMode": "Modo móvel",
+        "mobileModeHint": "Quando esta opção estiver habilitada, o usuário só poderá acessar sua ficha de personagem e a barra lateral. \nO Canvas será desativado."
+    }
+}

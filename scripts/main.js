@@ -18,7 +18,7 @@ Hooks.on("init", () => {
 Hooks.on("ready", () => {
     const user = game.user;
     const isGM = user.isGM;
-    if (isGM) return;
+    if (isGM || !user.getFlag(MODULE_ID, "mobileMode")) return game.settings.set("core", "noCanvas", false);
     const assignedCharacter = user.character;
     if (!assignedCharacter) return;
     //disable canvas

@@ -1,3 +1,6 @@
 {
-    "MODULE.hello": "hello"
+    "mobile-sheet": {
+        "mobileMode": "Mobile mode",
+        "mobileModeHint": "When this option is enabled the user will only be able to access their character sheet and the sidebar. The Canvas will be disabled."
+    }
 }
