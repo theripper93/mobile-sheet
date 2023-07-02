@@ -1,6 +1,6 @@
 {
     "title": "Mobile Sheet",
-    "description": "desc",
+    "description": "A module to minimize and adapt the sheet interface to make it usable on mobile devices.",
     "id": "mobile-sheet",
     "version": "1.0",
     "authors": [
